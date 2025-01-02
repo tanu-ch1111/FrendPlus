@@ -1,0 +1,26 @@
+usage_message: '&7-----[&aHelp&7]----
+&e/frend add <名前> &f- &bフレンド申請を送ります
+&e/frend accept <名前>  &f- &bフレンド申請を受理します
+&e/frend deny <名前>  &f- &bフレンド申請を拒否します
+&e/frend list &f- &bフレンド一覧表示させます
+&e/frend remove <名前> &f- &bフレンドを削除します
+&7-----[&aHelp&7]----'
+specify_player: '&cプレイヤー名を指定してください。'
+player_offline: '&c%player% はオフラインです。'
+already_friend: '&c%player% はすでにフレンドです。'
+already_requested: '&c%player% にすでにフレンド申請を送信しています。'
+request_sent: '&a%player% にフレンド申請を送信しました。'
+received_request: '&e%player% からフレンド申請が届きました。/frend accept %player% または /frend deny
+  %player% を使用してください。'
+request_accepted: '&a%player% からのフレンド申請を承認しました。'
+request_approved_by: '&a%player% があなたのフレンド申請を承認しました。'
+request_denied: '&c%player% からのフレンド申請を拒否しました。'
+request_denied_by: '&c%player% があなたのフレンド申請を拒否しました。'
+no_request_found: '&c%player% からのフレンド申請はありません。'
+friend_removed: '&c%player% をフレンドリストから削除しました。'
+not_friend: '&c%player% はフレンドではありません。'
+no_friends: '&cフレンドがいません。'
+friend_list: '&e&7-----[&bフレンド一覧&7]----&f'
+online: '&aオンライン'
+offline: '&cオフライン'
+reload_success: '&aメッセージを読み込みました！'
